@@ -280,6 +280,7 @@
 		6E0F8303189A1CE1000CA57A /* libwebsockets.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E0F8302189A1CE1000CA57A /* libwebsockets.a */; };
 		6E0F8309189A1CE1000CA57A /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6E0F8308189A1CE1000CA57A /* AppDelegate.cpp */; };
 		6E0F830C189A1CE1000CA57A /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6E0F830B189A1CE1000CA57A /* HelloWorldScene.cpp */; };
+		6EC4925019C7C179002FEEE3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6EC4924F19C7C179002FEEE3 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -873,6 +874,7 @@
 		6E0F8308189A1CE1000CA57A /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
 		6E0F830A189A1CE1000CA57A /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
 		6E0F830B189A1CE1000CA57A /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
+		6EC4924F19C7C179002FEEE3 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2093,6 +2095,7 @@
 		6E0F8306189A1CE1000CA57A /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				6EC4924F19C7C179002FEEE3 /* README.md */,
 				6E0F8307189A1CE1000CA57A /* AppDelegate.h */,
 				6E0F8308189A1CE1000CA57A /* AppDelegate.cpp */,
 				6E0F830A189A1CE1000CA57A /* HelloWorldScene.h */,
@@ -2161,6 +2164,7 @@
 				6E0F7F8C189A1CDD000CA57A /* iTunesArtwork in Resources */,
 				6E0F7F86189A1CDD000CA57A /* Icon-Small@2x.png in Resources */,
 				6E0F7F7C189A1CDD000CA57A /* Default.png in Resources */,
+				6EC4925019C7C179002FEEE3 /* README.md in Resources */,
 				6E0F7F7A189A1CDD000CA57A /* CloseSelected.png in Resources */,
 				6E0F7F8A189A1CDD000CA57A /* Icon@2x.png in Resources */,
 				6E0F819F189A1CE0000CA57A /* project.pbxproj in Resources */,
@@ -2564,6 +2568,7 @@
 				6E0F8311189A1CE1000CA57A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
